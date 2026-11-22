@@ -1,6 +1,20 @@
-# Anvi Trivedi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
+  <img src="assets/title-light.svg" alt="Anvi Trivedi — Computer Science" width="100%">
+</picture>
 
-Computer science · AI systems · Backend engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
+
+**Computer science student** working across AI systems, backend engineering, reinforcement learning, and practical developer tools.
 
 I build systems to answer practical questions: how agents can retain and verify information, how operating systems can make smarter scheduling decisions, and how complex data can become easier to navigate.
 

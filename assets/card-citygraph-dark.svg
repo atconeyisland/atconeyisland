@@ -1,12 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 236" width="1600" height="236" role="img" aria-label="05. CityGraph: A map-based visualizer for routes, shortest paths, and graph traversal.">
-  <title>05. CityGraph: A map-based visualizer for routes, shortest paths, and graph traversal.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 236" width="1600" height="236" role="img" aria-label="05. CityGraph: Interactive city graph visualizer with route and traversal algorithms.">
+  <title>05. CityGraph: Interactive city graph visualizer with route and traversal algorithms.</title>
   <rect x="2" y="2" width="1596" height="232" rx="20" fill="#0F172A" stroke="#1E3A8A" stroke-width="2"/>
-  <text x="72" y="112" fill="#60A5FA" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1">05 · CityGraph</text>
-  <text x="72" y="150" fill="#F1F5F9" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Map-based route and graph traversal visualizer</text>
-  <text x="72" y="188" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="400">Leaflet  ·  DFS  ·  Shortest paths  ·  Interactive map</text>
-  <rect x="1180" y="28" width="360" height="180" rx="12" fill="#172554"/>
-  <circle cx="1270" cy="118" r="18" fill="#60A5FA"/>
-  <circle cx="1430" cy="72" r="18" fill="#60A5FA"/>
-  <circle cx="1470" cy="168" r="18" fill="#60A5FA"/>
-  <path d="M1270 118 L1430 72 L1470 168 Z" fill="none" stroke="#60A5FA" stroke-width="10"/>
+  <text x="112" y="42" fill="#60A5FA" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">GRAPHS · ALGORITHMS · MAPS</text>
+  <text x="42" y="122" fill="#60A5FA" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">05</text>
+  <text x="112" y="118" fill="#F1F5F9" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700" letter-spacing="-1">CityGraph</text>
+  <text x="112" y="164" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400">Interactive graph routing with road-based shortest paths and DFS.</text>
+  <line x1="1080" y1="40" x2="1080" y2="196" stroke="#1E3A8A" stroke-width="2"/>
+  <text x="1128" y="106" fill="#60A5FA" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">DFS</text>
+  <text x="1128" y="146" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">and shortest routes</text>
+  <text x="1128" y="174" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">Leaflet map interface</text>
+  <circle cx="1450" cy="118" r="18" fill="#60A5FA"/>
+  <circle cx="1510" cy="72" r="18" fill="#60A5FA"/>
+  <circle cx="1530" cy="168" r="18" fill="#60A5FA"/>
+  <path d="M1450 118 L1510 72 L1530 168 Z" fill="none" stroke="#60A5FA" stroke-width="10"/>
 </svg>

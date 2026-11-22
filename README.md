@@ -26,6 +26,11 @@ I build systems to answer practical questions: how agents can retain and verify 
 
 ## Selected projects
 
+<a href="https://github.com/atconeyisland/ISL_Ineterpreter_project"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-signify-dark.svg">
+  <img src="assets/card-signify-light.svg" alt="Signify - Indian Sign Language interpreter" width="100%">
+</picture></a>
+
 <a href="https://github.com/atconeyisland/rfp-memory-agent"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-rfp-memory-agent-dark.svg">
   <img src="assets/card-rfp-memory-agent-light.svg" alt="RFP Memory Agent" width="100%">
@@ -44,13 +49,6 @@ I build systems to answer practical questions: how agents can retain and verify 
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-citygraph-dark.svg">
   <img src="assets/card-citygraph-light.svg" alt="CityGraph" width="100%">
 </picture></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
-</picture>
-
-## Collaborative projects
 
 <p align="center">
   <a href="https://github.com/Mokshitavp1/promotionlens"><img src="https://img.shields.io/badge/PromotionLens-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="PromotionLens"></a>

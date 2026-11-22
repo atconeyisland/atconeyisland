@@ -50,6 +50,8 @@ I build systems to answer practical questions: how agents can retain and verify 
   <img src="assets/card-citygraph-light.svg" alt="CityGraph" width="100%">
 </picture></a>
 
+## Collaborations
+
 <p align="center">
   <a href="https://github.com/Mokshitavp1/promotionlens"><img src="https://img.shields.io/badge/PromotionLens-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="PromotionLens"></a>
   <a href="https://github.com/Md-Zakiur-Rahman/ATLAS"><img src="https://img.shields.io/badge/ATLAS-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="ATLAS"></a>

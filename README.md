@@ -26,11 +26,6 @@ I build systems to answer practical questions: how agents can retain and verify 
 
 ## Selected projects
 
-<a href="https://github.com/atconeyisland/ISL_Ineterpreter_project"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-signify-dark.svg">
-  <img src="assets/card-signify-light.svg" alt="Signify - Indian Sign Language interpreter" width="100%">
-</picture></a>
-
 <a href="https://github.com/atconeyisland/rfp-memory-agent"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-rfp-memory-agent-dark.svg">
   <img src="assets/card-rfp-memory-agent-light.svg" alt="RFP Memory Agent" width="100%">
@@ -43,6 +38,11 @@ I build systems to answer practical questions: how agents can retain and verify 
 <a href="https://github.com/atconeyisland/Cascade"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-cascade-dark.svg">
   <img src="assets/card-cascade-light.svg" alt="Cascade" width="100%">
+</picture></a>
+
+<a href="https://github.com/atconeyisland/ISL_Ineterpreter_project"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-signify-dark.svg">
+  <img src="assets/card-signify-light.svg" alt="Signify - Indian Sign Language interpreter" width="100%">
 </picture></a>
 
 <a href="https://github.com/atconeyisland/CityGraph"><picture>

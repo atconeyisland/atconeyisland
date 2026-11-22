@@ -44,3 +44,17 @@ I build systems to answer practical questions: how agents can retain and verify 
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-citygraph-dark.svg">
   <img src="assets/card-citygraph-light.svg" alt="CityGraph" width="100%">
 </picture></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
+
+## Collaborative projects
+
+<p align="center">
+  <a href="https://github.com/Mokshitavp1/promotionlens"><img src="https://img.shields.io/badge/PromotionLens-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="PromotionLens"></a>
+  <a href="https://github.com/Md-Zakiur-Rahman/ATLAS"><img src="https://img.shields.io/badge/ATLAS-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="ATLAS"></a>
+  <a href="https://github.com/PrachiBhowal/SAHAY"><img src="https://img.shields.io/badge/SAHAY-2563EB?style=for-the-badge&logo=javascript&logoColor=white" alt="SAHAY"></a>
+  <a href="https://github.com/root-meraj/SIH-project-2025"><img src="https://img.shields.io/badge/SIH%202025-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="SIH 2025"></a>
+</p>
